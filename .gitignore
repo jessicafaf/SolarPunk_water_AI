@@ -1,0 +1,4 @@
+.env
+__pycache__/
+system_history.csv
+system_performance.png
